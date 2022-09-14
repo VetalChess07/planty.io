@@ -1,0 +1,10 @@
+h5 {
+  font-family: "Aeonik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+  letter-spacing: 0.1em;
+  color: #000000;
+}
